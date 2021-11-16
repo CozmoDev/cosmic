@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd …">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://github.com/CozmoDev/cosmic/raw/main/h3lix-RC6.ipa</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>science.xnu.undecimus31158</string>
+<key>bundle-version</key>
+<string>6.0</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>h3lix - cozmo</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
